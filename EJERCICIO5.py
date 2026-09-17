@@ -1,30 +1,24 @@
-class Ejercicio5:
-
-    def __init__(self, valor_x=20, valor_y=40):
-        self.suma = 0
-        self.x = valor_x
-        self.y = valor_y
-
+class Ejercicio:
     
-    def calcular_suma(self):
-        
-        
+    def __init__(self):
+        self.suma = 0
+        self.x = 20
+        self.y = 40
+
+    def realizar_calculos(self):
         self.suma = self.suma + self.x
-        
         
         self.x = self.x + self.y ** 2
         
-        
         self.suma = self.suma + self.x / self.y
-        
-        
-        print(f"EL VALOR DE LA SUMA ES: {self.suma}")
-        
+
+    def mostrar_resultado(self):
+        print("EL VALOR DE LA SUMA ES:", self.suma)
 
 
-if __name__ == "__main__":
-    
-    ejercicio = Ejercicio5()
-    ejercicio.calcular_suma()
-    
+ejercicio = Ejercicio()
+
+ejercicio.realizar_calculos()
+
+ejercicio.mostrar_resultado()
     
