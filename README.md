@@ -5,7 +5,7 @@ Estudiante: Samuel Arango Rivera
 
 Docente: Walter Hugo Arboleda Mazo
 
-Universidad Nacional de Colombia
+Universidad Nacional de Colombia (Sede Medellín)
 
 Descripción de la actividad:
 
