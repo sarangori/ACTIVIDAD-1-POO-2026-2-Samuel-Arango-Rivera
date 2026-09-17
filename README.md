@@ -9,5 +9,5 @@ Universidad Nacional de Colombia
 
 Descripción de la actividad:
 
-Elaboré 5 ejercicios en lenguaje python del libro Lógica de Programación de Efraín Oviedo – Archivo PDF.
-Como este curso es de programación orientada a objetos dichos ejercicios fueron elaborados con clases.
+Codifiqué 5 ejercicios en python del libro Lógica de Programación de Efraín Oviedo – Archivo PDF.
+Como este curso es de programación orientada a objetos los ejercicios los programé con clases.
